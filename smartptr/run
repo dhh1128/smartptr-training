@@ -1,0 +1,2 @@
+g++ main.cpp Foo.cpp -o smartptr -std=c++11
+./smartptr
